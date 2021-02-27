@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstAndroidAPP</string>
+    <string name="aumentar">Aumentar</string>
+    <string name="disminuir">Disminuir</string>
+</resources>
