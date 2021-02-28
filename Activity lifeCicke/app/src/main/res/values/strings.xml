@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activity _lifeCicle</string>
+    <string name="btn_login">Wenas</string>
+    <string name="btn_goto_login">Ir a login</string>
+</resources>
